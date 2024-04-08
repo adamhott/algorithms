@@ -6,5 +6,9 @@ edition = "2021"
 [dependencies]
 
 [[bin]]
-name = "contains_duplicate" 
-path = "bin/contains_duplicate.rs" 
+name = "217_contains_duplicate" 
+path = "bin/217_contains_duplicate.rs" 
+
+[[bin]]
+name = "242_valid_anagram" 
+path = "bin/242_valid_anagram.rs" 
