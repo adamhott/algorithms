@@ -28,3 +28,7 @@ path = "bin/347_top_k_frequent_elements.rs"
 [[bin]]
 name = "659_encode_and_decode_strings" 
 path = "bin/659_encode_and_decode_strings.rs" 
+
+[[bin]]
+name = "36_valid_sudoku" 
+path = "bin/36_valid_sudoku.rs" 
