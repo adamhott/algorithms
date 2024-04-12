@@ -32,3 +32,10 @@ path = "bin/659_encode_and_decode_strings.rs"
 [[bin]]
 name = "36_valid_sudoku" 
 path = "bin/36_valid_sudoku.rs" 
+
+[[bin]]
+name = "128_longest_consecutive_sequence"
+path = "bin/128_longest_consecutive_sequence.rs"
+
+
+
