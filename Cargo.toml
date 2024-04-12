@@ -24,3 +24,7 @@ path = "bin/49_group_anagrams.rs"
 [[bin]]
 name = "347_top_k_frequent_elements" 
 path = "bin/347_top_k_frequent_elements.rs" 
+
+[[bin]]
+name = "659_encode_and_decode_strings" 
+path = "bin/659_encode_and_decode_strings.rs" 
