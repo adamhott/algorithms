@@ -37,5 +37,11 @@ path = "bin/36_valid_sudoku.rs"
 name = "128_longest_consecutive_sequence"
 path = "bin/128_longest_consecutive_sequence.rs"
 
+[[bin]]
+name = "238_product_of_array_except_self"
+path = "bin/238_product_of_array_except_self.rs"
 
+[[bin]]
+name = "20_valid_parentheses"
+path = "bin/20_valid_parentheses.rs"
 
