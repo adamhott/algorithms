@@ -56,3 +56,8 @@ path = "bin/150_evaluate_reverse_polish_notation.rs"
 [[bin]]
 name = "22_generate_parentheses"
 path = "bin/22_generate_parentheses.rs"
+
+[[bin]]
+name = "739_daily_temperatures"
+path = "bin/739_daily_temperatures.rs"
+
