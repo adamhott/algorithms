@@ -45,3 +45,11 @@ path = "bin/238_product_of_array_except_self.rs"
 name = "20_valid_parentheses"
 path = "bin/20_valid_parentheses.rs"
 
+[[bin]]
+name = "155_min_stack"
+path = "bin/155_min_stack.rs"
+
+[[bin]]
+name = "150_evaluate_reverse_polish_notation"
+path = "bin/150_evaluate_reverse_polish_notation.rs"
+
