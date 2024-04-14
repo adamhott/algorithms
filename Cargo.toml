@@ -53,3 +53,6 @@ path = "bin/155_min_stack.rs"
 name = "150_evaluate_reverse_polish_notation"
 path = "bin/150_evaluate_reverse_polish_notation.rs"
 
+[[bin]]
+name = "22_generate_parentheses"
+path = "bin/22_generate_parentheses.rs"
