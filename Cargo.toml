@@ -61,3 +61,6 @@ path = "bin/22_generate_parentheses.rs"
 name = "739_daily_temperatures"
 path = "bin/739_daily_temperatures.rs"
 
+[[bin]]
+name = "853_car_fleet"
+path = "bin/853_car_fleet.rs"
