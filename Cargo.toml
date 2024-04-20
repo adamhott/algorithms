@@ -64,3 +64,11 @@ path = "bin/739_daily_temperatures.rs"
 [[bin]]
 name = "853_car_fleet"
 path = "bin/853_car_fleet.rs"
+
+[[bin]]
+name = "84_largest_rectangle_in_histogram"
+path = "bin/84_largest_rectangle_in_histogram.rs"
+
+[[bin]]
+name = "125_valid_palindrome"
+path = "bin/125_valid_palindrome.rs"
