@@ -72,3 +72,8 @@ path = "bin/84_largest_rectangle_in_histogram.rs"
 [[bin]]
 name = "125_valid_palindrome"
 path = "bin/125_valid_palindrome.rs"
+
+[[bin]]
+name = "167_two_sum_input_array_is_sorted"
+path = "bin/167_two_sum_input_array_is_sorted.rs"
+
