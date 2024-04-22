@@ -77,3 +77,7 @@ path = "bin/125_valid_palindrome.rs"
 name = "167_two_sum_input_array_is_sorted"
 path = "bin/167_two_sum_input_array_is_sorted.rs"
 
+[[bin]]
+name = "15_3sum"
+path = "bin/15_3sum.rs"
+
