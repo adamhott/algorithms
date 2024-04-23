@@ -81,3 +81,6 @@ path = "bin/167_two_sum_input_array_is_sorted.rs"
 name = "15_3sum"
 path = "bin/15_3sum.rs"
 
+[[bin]]
+name = "11_container_with_most_water"
+path = "bin/11_container_with_most_water.rs"
