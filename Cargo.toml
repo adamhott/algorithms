@@ -92,3 +92,7 @@ path = "bin/42_trapping_rain_water.rs"
 [[bin]]
 name = "704_binary_search"
 path = "bin/704_binary_search.rs"
+
+[[bin]]
+name = "74_search_a_2d_matrix"
+path = "bin/74_search_a_2d_matrix.rs"
