@@ -88,3 +88,7 @@ path = "bin/11_container_with_most_water.rs"
 [[bin]]
 name = "42_trapping_rain_water"
 path = "bin/42_trapping_rain_water.rs"
+
+[[bin]]
+name = "704_binary_search"
+path = "bin/704_binary_search.rs"
