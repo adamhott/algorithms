@@ -96,3 +96,7 @@ path = "bin/704_binary_search.rs"
 [[bin]]
 name = "74_search_a_2d_matrix"
 path = "bin/74_search_a_2d_matrix.rs"
+
+[[bin]]
+name = "875_koko_eating_bananas"
+path = "bin/875_koko_eating_bananas.rs"
