@@ -104,3 +104,7 @@ path = "bin/875_koko_eating_bananas.rs"
 [[bin]]
 name = "153_find_minimum_in_rotated_sorted_array"
 path = "bin/153_find_minimum_in_rotated_sorted_array.rs"
+
+[[bin]]
+name = "33_search_in_rotated_sorted_array"
+path = "bin/33_search_in_rotated_sorted_array.rs"
