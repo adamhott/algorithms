@@ -120,3 +120,7 @@ path = "bin/4_median_of_two_sorted_arrays.rs"
 [[bin]]
 name = "121_best_time_to_buy_and_sell_stock"
 path = "bin/121_best_time_to_buy_and_sell_stock.rs"
+
+[[bin]]
+name = "3_longest_substring_without_repeating_characters"
+path = "bin/3_longest_substring_without_repeating_characters.rs"
