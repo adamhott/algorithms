@@ -124,3 +124,15 @@ path = "bin/121_best_time_to_buy_and_sell_stock.rs"
 [[bin]]
 name = "3_longest_substring_without_repeating_characters"
 path = "bin/3_longest_substring_without_repeating_characters.rs"
+
+[[bin]]
+name = "424_longest_repeating_character_replacement"
+path = "bin/424_longest_repeating_character_replacement.rs"
+
+[[bin]]
+name = "76_minimum_window_substring"
+path = "bin/76_minimum_window_substring.rs"
+
+[[bin]]
+name = "226_invert_binary_tree"
+path = "bin/226_invert_binary_tree.rs"
