@@ -136,3 +136,7 @@ path = "bin/76_minimum_window_substring.rs"
 [[bin]]
 name = "226_invert_binary_tree"
 path = "bin/226_invert_binary_tree.rs"
+
+[[bin]]
+name = "104_maximum_depth_of_binary_tree"
+path = "bin/104_maximum_depth_of_binary_tree.rs"
