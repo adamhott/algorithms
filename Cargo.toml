@@ -140,3 +140,7 @@ path = "bin/226_invert_binary_tree.rs"
 [[bin]]
 name = "104_maximum_depth_of_binary_tree"
 path = "bin/104_maximum_depth_of_binary_tree.rs"
+
+[[bin]]
+name = "100_same_tree"
+path = "bin/100_same_tree.rs"
