@@ -148,3 +148,7 @@ path = "bin/100_same_tree.rs"
 [[bin]]
 name = "572_subtree_of_another_tree"
 path = "bin/572_subtree_of_another_tree.rs"
+
+[[bin]]
+name = "235_lowest_common_ancestor_of_a_binary_search_tree"
+path = "bin/235_lowest_common_ancestor_of_a_binary_search_tree.rs"
