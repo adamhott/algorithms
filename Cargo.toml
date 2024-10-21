@@ -152,3 +152,7 @@ path = "bin/572_subtree_of_another_tree.rs"
 [[bin]]
 name = "235_lowest_common_ancestor_of_a_binary_search_tree"
 path = "bin/235_lowest_common_ancestor_of_a_binary_search_tree.rs"
+
+[[bin]]
+name = "102_binary_tree_level_order_traversal"
+path = "bin/102_binary_tree_level_order_traversal.rs"
