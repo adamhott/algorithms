@@ -160,3 +160,7 @@ path = "bin/102_binary_tree_level_order_traversal.rs"
 [[bin]]
 name = "98_validate_binary_search_tree"
 path = "bin/98_validate_binary_search_tree.rs"
+
+[[bin]]
+name = "230_kth_smallest_element_in_a_bst"
+path = "bin/230_kth_smallest_element_in_a_bst.rs"
