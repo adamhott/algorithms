@@ -176,3 +176,7 @@ path = "bin/124_binary_tree_maximum_path_sum.rs"
 [[bin]]
 name = "297_serialize_and_deserialize_binary_tree"
 path = "bin/297_serialize_and_deserialize_binary_tree.rs"
+
+[[bin]]
+name = "206_reverse_linked_list"
+path = "bin/206_reverse_linked_list.rs"
