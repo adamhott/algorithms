@@ -180,3 +180,7 @@ path = "bin/297_serialize_and_deserialize_binary_tree.rs"
 [[bin]]
 name = "206_reverse_linked_list"
 path = "bin/206_reverse_linked_list.rs"
+
+[[bin]]
+name = "21_merge_two_sorted_lists"
+path = "bin/21_merge_two_sorted_lists.rs"
