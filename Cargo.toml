@@ -184,3 +184,7 @@ path = "bin/206_reverse_linked_list.rs"
 [[bin]]
 name = "21_merge_two_sorted_lists"
 path = "bin/21_merge_two_sorted_lists.rs"
+
+[[bin]]
+name = "143_reorder_list"
+path = "bin/143_reorder_list.rs"
