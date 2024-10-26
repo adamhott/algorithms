@@ -188,3 +188,7 @@ path = "bin/21_merge_two_sorted_lists.rs"
 [[bin]]
 name = "143_reorder_list"
 path = "bin/143_reorder_list.rs"
+
+[[bin]]
+name = "19_remove_node_from_end_of_linked_list"
+path = "bin/19_remove_node_from_end_of_linked_list.rs"
