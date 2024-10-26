@@ -200,3 +200,7 @@ path = "bin/141_linked_list_cycles.rs"
 [[bin]]
 name = "23_merge_k_sorted_lists"
 path = "bin/23_merge_k_sorted_lists.rs"
+
+[[bin]]
+name = "200_number_of_islands"
+path = "bin/200_number_of_islands.rs"
