@@ -196,3 +196,7 @@ path = "bin/19_remove_node_from_end_of_linked_list.rs"
 [[bin]]
 name = "141_linked_list_cycles"
 path = "bin/141_linked_list_cycles.rs"
+
+[[bin]]
+name = "23_merge_k_sorted_lists"
+path = "bin/23_merge_k_sorted_lists.rs"
