@@ -208,3 +208,7 @@ path = "bin/200_number_of_islands.rs"
 [[bin]]
 name = "269_alien_dictionary"
 path = "bin/269_alien_dictionary.rs"
+
+[[bin]]
+name = "295_find_medium_from_data_stream"
+path = "bin/295_find_medium_from_data_stream.rs"
